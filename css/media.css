@@ -1,0 +1,184 @@
+@media(max-width:376px){
+    .header{
+        width: 376px;
+    }
+    .header h2{
+        margin-left: 3px;
+        font-size: 16px;
+        font-weight: 700;
+        margin-bottom: 68px;
+    }
+    .main-nav{
+        margin-left: 90px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    .main{
+        width: 70px;
+    }
+    .main a{ 
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .main-nav{
+        margin-bottom: 38px;
+    }
+    .main-nav a{
+        
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .main-nav button{
+        margin-top: 5px;
+        width: 60px;
+        height: 20px;
+        font-size: 12px;
+    }
+    
+    
+    .hero-left button{
+        border-radius: 5px;
+        padding: 5px 0;
+        width: 130px;
+        height: 30px;
+        font-weight: 200;
+        font-size: 12px;
+        margin-left: 15px;
+       }
+       .hero-left h1{
+    padding: 0 0 0 10px;
+        font-weight: 300;
+        font-size: 22px;
+        margin-left: 5px;
+       }
+       .hero-left p{
+        font-size: 15px;
+        margin-left: 15px;
+        font-weight: 300;
+       }
+        .hero-left .now {
+            border-radius: 10px;
+        width: 150px;
+        height: 35px;
+        font-size: 15px;
+       }
+    .hero{
+        display: grid;
+        border-radius: 10px;
+  
+    }
+    .hero img{
+        width: 150px;
+        height: 300px;
+        margin-left: 140px;
+    }
+    .about img{
+       width: 368px;
+    }
+    .about{
+        display: grid;
+    }
+    .about-info h1{
+        font-size: 25px;
+        margin-left: 10px;
+        
+    }
+    .about-info p{
+        padding: 0 0 0 10px;
+    }
+    .avatar{
+        width: 368px;
+    }
+    .avatar-1 img{
+        width: 368;
+    }
+    
+    .star img{
+        width: 40px;
+      padding: 0 0 0 13px;
+    }
+    .start-block h1{
+        font-size: 25px;
+    }
+    .start-block p{
+        font-size: 15px;
+    }
+    .start-block button{
+        width: 200px;
+        height: 50px;
+    }
+    .block {
+     width: 368px;
+    }
+    .start-block{
+        width: 360px;
+        height: 350px;
+    }
+    .email{
+        width: 368px;
+    }
+    .avatar-1 img{
+        width: 100%;
+    }
+   
+    .email h1{
+        font-size: 25px;
+    }
+    .avatar{
+        margin: 0 0 0 10px ;
+    }
+    .email-box{
+        
+        border-radius: 10px;
+        width: 330px;
+        height: 80px;
+    }
+    .email-box h4{
+font-size: 23px;
+    }
+    .email-box button{
+        width: 120px;
+        height: 40px;
+        font-size: 12px;
+    }
+    .box{
+        width: 368px;
+    }
+    .footer{
+        width: 368px;
+    }
+    .footer h2{
+        font-size: 18px;
+        margin-bottom: 68px;
+        padding-left: 5px;
+    }
+    .main-foot{
+        width: 150px;
+        
+    }
+    
+    .main-foot a{
+        font-size: 15px;
+    }
+    .main-futer a{
+        font-size: 15px;
+        padding: 10px 0;
+
+    }
+    .main-futer{
+        margin-bottom: 38px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .main-futer button{
+        width: 90px;
+        height: 30px;
+        font-size: 13px;
+    }
+}
+ @media(max-width:1140px){
+    
+ }  
